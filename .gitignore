@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+#Local dev setting
+.env
+.env.local
+.env.*.local
+# Distrubution - packaging
+dist/
+build/
+*.egg-info/
